@@ -6,3 +6,4 @@ Jossue Ortiz: I'm from Honduras. I'm currently in my first year of BYU-Idaho in 
 
 Isaac Cruz:  I am an enthusiast of software and web development. I like to create programs with python and java, also create my own web pages with HTML, CSS, and JavaScript. Those are the programming languages that I domain and still learning about it. I am actually studying at BYU Idaho, Applied technology Degree.
 
+William Seaver: I am a senior at BYU-I and and engineer for lockheed Martin. I am a father of two children and a husband. I hope to finish school soon and continue to use the skills I gained from school in my job. 
